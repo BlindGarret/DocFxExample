@@ -1,0 +1,47 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibrary1
+  name: ClassLibrary1
+  href: api/ClassLibrary1.html
+  commentId: N:ClassLibrary1
+  fullName: ClassLibrary1
+  nameWithType: ClassLibrary1
+- uid: ClassLibrary1.Bar
+  name: Bar
+  href: api/ClassLibrary1.Bar.html
+  commentId: T:ClassLibrary1.Bar
+  fullName: ClassLibrary1.Bar
+  nameWithType: Bar
+- uid: ClassLibrary1.Bar.Prop1
+  name: Prop1
+  href: api/ClassLibrary1.Bar.html#ClassLibrary1_Bar_Prop1
+  commentId: P:ClassLibrary1.Bar.Prop1
+  fullName: ClassLibrary1.Bar.Prop1
+  nameWithType: Bar.Prop1
+- uid: ClassLibrary1.Bar.Prop1*
+  name: Prop1
+  href: api/ClassLibrary1.Bar.html#ClassLibrary1_Bar_Prop1_
+  commentId: Overload:ClassLibrary1.Bar.Prop1
+  isSpec: "True"
+  fullName: ClassLibrary1.Bar.Prop1
+  nameWithType: Bar.Prop1
+- uid: ClassLibrary1.Foo
+  name: Foo
+  href: api/ClassLibrary1.Foo.html
+  commentId: T:ClassLibrary1.Foo
+  fullName: ClassLibrary1.Foo
+  nameWithType: Foo
+- uid: ClassLibrary1.Foo.DoSomething(ClassLibrary1.Bar)
+  name: DoSomething(Bar)
+  href: api/ClassLibrary1.Foo.html#ClassLibrary1_Foo_DoSomething_ClassLibrary1_Bar_
+  commentId: M:ClassLibrary1.Foo.DoSomething(ClassLibrary1.Bar)
+  fullName: ClassLibrary1.Foo.DoSomething(ClassLibrary1.Bar)
+  nameWithType: Foo.DoSomething(Bar)
+- uid: ClassLibrary1.Foo.DoSomething*
+  name: DoSomething
+  href: api/ClassLibrary1.Foo.html#ClassLibrary1_Foo_DoSomething_
+  commentId: Overload:ClassLibrary1.Foo.DoSomething
+  isSpec: "True"
+  fullName: ClassLibrary1.Foo.DoSomething
+  nameWithType: Foo.DoSomething
