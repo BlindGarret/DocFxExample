@@ -38,7 +38,6 @@ jobs:
       
       # Build DOcs
       - name: DocFX Build
-        working-directory: docs
         run: docfx docfx.json
         continue-on-error: false
         
